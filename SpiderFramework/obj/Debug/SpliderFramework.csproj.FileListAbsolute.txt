@@ -1,0 +1,9 @@
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\SpliderFramework\bin\Debug\SpliderFramework.dll
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\SpliderFramework\bin\Debug\SpliderFramework.pdb
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\SpliderFramework\obj\Debug\SpliderFramework.csprojResolveAssemblyReference.cache
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\SpliderFramework\obj\Debug\SpliderFramework.dll
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\SpliderFramework\obj\Debug\SpliderFramework.pdb
+H:\Git\MiniSplider\SpliderFramework\bin\Debug\SpliderFramework.dll
+H:\Git\MiniSplider\SpliderFramework\bin\Debug\SpliderFramework.pdb
+H:\Git\MiniSplider\SpliderFramework\obj\Debug\SpliderFramework.dll
+H:\Git\MiniSplider\SpliderFramework\obj\Debug\SpliderFramework.pdb

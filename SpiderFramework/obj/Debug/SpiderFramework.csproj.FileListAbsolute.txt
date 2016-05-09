@@ -1,0 +1,4 @@
+H:\Git\MiniSplider\SpiderFramework\bin\Debug\SpliderFramework.dll
+H:\Git\MiniSplider\SpiderFramework\bin\Debug\SpliderFramework.pdb
+H:\Git\MiniSplider\SpiderFramework\obj\Debug\SpliderFramework.dll
+H:\Git\MiniSplider\SpiderFramework\obj\Debug\SpliderFramework.pdb

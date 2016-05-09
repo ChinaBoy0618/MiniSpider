@@ -1,0 +1,8 @@
+﻿1.配置节说明
+自定义配置节注入
+<configSections>
+    <sectionGroup name="section group name">
+        <section name="section name" type="configuration section handler class" />
+    </sectionGroup>
+</configSections>
+

@@ -1,0 +1,8 @@
+H:\MiniSplider\MiniSplider\SingletonTest\bin\Debug\SingletonTest.exe
+H:\MiniSplider\MiniSplider\SingletonTest\bin\Debug\SingletonTest.pdb
+H:\MiniSplider\MiniSplider\SingletonTest\obj\x86\Debug\SingletonTest.exe
+H:\MiniSplider\MiniSplider\SingletonTest\obj\x86\Debug\SingletonTest.pdb
+H:\Git\MiniSplider\SingletonTest\bin\Debug\SingletonTest.exe
+H:\Git\MiniSplider\SingletonTest\bin\Debug\SingletonTest.pdb
+H:\Git\MiniSplider\SingletonTest\obj\x86\Debug\SingletonTest.exe
+H:\Git\MiniSplider\SingletonTest\obj\x86\Debug\SingletonTest.pdb

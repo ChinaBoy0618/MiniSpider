@@ -1,0 +1,11 @@
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\MiniIOC\bin\Debug\MiniIOC.dll.config
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\MiniIOC\bin\Debug\MiniIOC.dll
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\MiniIOC\bin\Debug\MiniIOC.pdb
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\MiniIOC\obj\Debug\MiniIOC.dll
+C:\Users\i\documents\visual studio 2012\Projects\MinSpdier\MiniIOC\obj\Debug\MiniIOC.pdb
+H:\Git\MiniSplider\MiniIOC\bin\Debug\MiniIOC.dll.config
+H:\Git\MiniSplider\MiniIOC\bin\Debug\MiniIOC.dll
+H:\Git\MiniSplider\MiniIOC\bin\Debug\MiniIOC.pdb
+H:\Git\MiniSplider\MiniIOC\obj\Debug\MiniIOC.dll
+H:\Git\MiniSplider\MiniIOC\obj\Debug\MiniIOC.pdb
+H:\Git\MiniSplider\MiniIOC\obj\Debug\MiniIOC.csprojResolveAssemblyReference.cache

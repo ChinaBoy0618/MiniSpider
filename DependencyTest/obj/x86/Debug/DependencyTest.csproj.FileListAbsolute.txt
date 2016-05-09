@@ -1,0 +1,16 @@
+H:\MiniSplider\MiniSplider\DependencyTest\bin\Debug\DependencyTest.exe
+H:\MiniSplider\MiniSplider\DependencyTest\bin\Debug\DependencyTest.pdb
+H:\MiniSplider\MiniSplider\DependencyTest\obj\x86\Debug\DependencyTest.exe
+H:\MiniSplider\MiniSplider\DependencyTest\obj\x86\Debug\DependencyTest.pdb
+H:\MiniSplider\MiniSplider\DependencyTest\bin\Debug\MiniIOC.dll
+H:\MiniSplider\MiniSplider\DependencyTest\bin\Debug\MiniIOC.pdb
+H:\MiniSplider\MiniSplider\DependencyTest\obj\x86\Debug\DependencyTest.csprojResolveAssemblyReference.cache
+H:\MiniSplider\MiniSplider\DependencyTest\bin\Debug\DependencyTest.exe.config
+H:\Git\MiniSplider\DependencyTest\bin\Debug\DependencyTest.exe.config
+H:\Git\MiniSplider\DependencyTest\obj\x86\Debug\DependencyTest.exe
+H:\Git\MiniSplider\DependencyTest\obj\x86\Debug\DependencyTest.pdb
+H:\Git\MiniSplider\DependencyTest\obj\x86\Debug\DependencyTest.csprojResolveAssemblyReference.cache
+H:\Git\MiniSplider\DependencyTest\bin\Debug\DependencyTest.exe
+H:\Git\MiniSplider\DependencyTest\bin\Debug\DependencyTest.pdb
+H:\Git\MiniSplider\DependencyTest\bin\Debug\MiniIOC.dll
+H:\Git\MiniSplider\DependencyTest\bin\Debug\MiniIOC.pdb

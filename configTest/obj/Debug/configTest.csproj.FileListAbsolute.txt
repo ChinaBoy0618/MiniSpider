@@ -1,0 +1,11 @@
+C:\Users\i\Documents\Visual Studio 2012\Projects\MinSpdier\configTest\bin\Debug\configTest.exe.config
+C:\Users\i\Documents\Visual Studio 2012\Projects\MinSpdier\configTest\bin\Debug\configTest.exe
+C:\Users\i\Documents\Visual Studio 2012\Projects\MinSpdier\configTest\bin\Debug\configTest.pdb
+C:\Users\i\Documents\Visual Studio 2012\Projects\MinSpdier\configTest\obj\Debug\configTest.csprojResolveAssemblyReference.cache
+C:\Users\i\Documents\Visual Studio 2012\Projects\MinSpdier\configTest\obj\Debug\configTest.exe
+C:\Users\i\Documents\Visual Studio 2012\Projects\MinSpdier\configTest\obj\Debug\configTest.pdb
+H:\Git\MiniSplider\configTest\bin\Debug\configTest.exe.config
+H:\Git\MiniSplider\configTest\bin\Debug\configTest.exe
+H:\Git\MiniSplider\configTest\bin\Debug\configTest.pdb
+H:\Git\MiniSplider\configTest\obj\Debug\configTest.exe
+H:\Git\MiniSplider\configTest\obj\Debug\configTest.pdb

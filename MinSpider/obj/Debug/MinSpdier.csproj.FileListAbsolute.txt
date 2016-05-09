@@ -1,0 +1,11 @@
+c:\users\i\documents\visual studio 2012\Projects\MinSpdier\MinSpdier\bin\Debug\MinSpdier.exe.config
+c:\users\i\documents\visual studio 2012\Projects\MinSpdier\MinSpdier\bin\Debug\MinSpdier.exe
+c:\users\i\documents\visual studio 2012\Projects\MinSpdier\MinSpdier\bin\Debug\MinSpdier.pdb
+c:\users\i\documents\visual studio 2012\Projects\MinSpdier\MinSpdier\obj\Debug\MinSpdier.exe
+c:\users\i\documents\visual studio 2012\Projects\MinSpdier\MinSpdier\obj\Debug\MinSpdier.pdb
+H:\Git\MiniSplider\MinSpdiler\bin\Debug\MinSpdier.exe.config
+H:\Git\MiniSplider\MinSpdiler\bin\Debug\MinSpdier.exe
+H:\Git\MiniSplider\MinSpdiler\bin\Debug\MinSpdier.pdb
+H:\Git\MiniSplider\MinSpdiler\obj\Debug\MinSpdier.csprojResolveAssemblyReference.cache
+H:\Git\MiniSplider\MinSpdiler\obj\Debug\MinSpdier.exe
+H:\Git\MiniSplider\MinSpdiler\obj\Debug\MinSpdier.pdb

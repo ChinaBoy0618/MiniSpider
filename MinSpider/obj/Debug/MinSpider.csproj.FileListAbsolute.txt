@@ -1,0 +1,5 @@
+H:\Git\MiniSplider\MinSpider\bin\Debug\MinSpdier.exe.config
+H:\Git\MiniSplider\MinSpider\bin\Debug\MinSpdier.exe
+H:\Git\MiniSplider\MinSpider\bin\Debug\MinSpdier.pdb
+H:\Git\MiniSplider\MinSpider\obj\Debug\MinSpdier.exe
+H:\Git\MiniSplider\MinSpider\obj\Debug\MinSpdier.pdb

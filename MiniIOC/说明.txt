@@ -1,0 +1,26 @@
+﻿1.配置节说明
+自定义配置节注入
+<configSections>
+    <sectionGroup name="MiniIOC">
+        <section name="xmlCollectionPath" type="MiniIOC.Config.MiniIocConfigurationSectionHandler" />
+    </sectionGroup>
+</configSections>
+
+<MiniIOC>
+	<xmlCollectionPath>
+		<add key="path" value=""/>
+	</xmlCollectionPath>
+	<AssemblyPath>
+		<add key="path" value=""/>
+	</AssemblyPath>
+	<MiniIOCEntitys>
+		<add key="you Assembly name" value="you Class Name behind namespace"/>
+		<entity type="" mapTo=""/>
+
+	</MiniIOCEntitys>
+</MiniIOC>
+
+2.定义实体的两种方式
+	1）在 MiniIOC/MiniIOCEntity 配置节下直接配置
+	2）在外部xml文件中配置（暂时未实现），需要引入MiniIOC/xmlCollectionPath配置节，指定路径（绝对路径）
+

@@ -1,0 +1,11 @@
+H:\MiniSplider\MiniSplider\TypeTeest\bin\Debug\TypeTeest.exe
+H:\MiniSplider\MiniSplider\TypeTeest\bin\Debug\TypeTeest.pdb
+H:\MiniSplider\MiniSplider\TypeTeest\obj\x86\Debug\TypeTeest.exe
+H:\MiniSplider\MiniSplider\TypeTeest\obj\x86\Debug\TypeTeest.pdb
+H:\MiniSplider\MiniSplider\TypeTeest\bin\Debug\TypeTeest.exe.config
+H:\Git\MiniSplider\TypeTeest\bin\Debug\TypeTeest.exe.config
+H:\Git\MiniSplider\TypeTeest\bin\Debug\TypeTeest.exe
+H:\Git\MiniSplider\TypeTeest\bin\Debug\TypeTeest.pdb
+H:\Git\MiniSplider\TypeTeest\obj\x86\Debug\TypeTeest.exe
+H:\Git\MiniSplider\TypeTeest\obj\x86\Debug\TypeTeest.pdb
+H:\Git\MiniSplider\TypeTeest\obj\x86\Debug\TypeTest.csprojResolveAssemblyReference.cache
